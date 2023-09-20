@@ -1,1 +1,2 @@
 Hola a todos!, como estoy
+never mind am just learning git
